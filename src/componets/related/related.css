@@ -1,0 +1,31 @@
+.related-wrapper {
+    width: 300px;
+    min-height: 500px;
+    border-radius: 4px;
+    box-shadow: 10px -2px 20px 2px rgb(0 0 0 / 20%);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 20px;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.related-img-wrapper{
+    padding: 10px;
+    border-radius: 4px;
+    margin: auto;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+img{
+    border-radius: 4px;
+}
+
+.related-title {
+    font-size: 1.4em;
+}

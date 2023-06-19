@@ -1,0 +1,25 @@
+.popular-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.anime-wrapper {
+    width: 300px;
+    min-height: 500px;
+    border-radius: 4px;
+    box-shadow: 10px -2px 20px 2px rgb(0 0 0 / 20%);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    margin-top: 20px;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.popular-title{
+    font-size: 1.8em;
+}

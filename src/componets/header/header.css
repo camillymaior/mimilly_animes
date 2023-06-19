@@ -1,0 +1,26 @@
+.header-wrapper{
+    background-color: var(--primary-color);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.nav-bar{
+    margin-right: 40px;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}

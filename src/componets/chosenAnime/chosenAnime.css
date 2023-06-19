@@ -1,0 +1,32 @@
+ .mainContent-wrapper{
+    border-radius: 4px;
+    box-shadow: 10px -2px 20px 2px rgb(0 0 0 / 20%);
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    gap: 10px;
+ }
+
+ .text-wrapper{
+    display: flex;
+    gap:10px;
+    flex-direction: column;
+    margin-left: 30px;
+ }
+
+ .img-wrapper{
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 20px;
+    height: 100%;
+    width: 100%;
+ }
+
+ .animeTitle{
+ }
+ 
+ .synopsis{
+   line-height: 30px;
+ }
